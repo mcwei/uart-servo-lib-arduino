@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['read_5fangle',['READ_ANGLE',['../_u_a_r_t_servo_8cpp.html#ac916d04825c6f6d11f74d058a4687621',1,'UARTServo.cpp']]],
+  ['read_5fbatch_5fdata',['READ_BATCH_DATA',['../_u_a_r_t_servo_8cpp.html#ad28dbe3ba999e2424c8cd4700e4c51fa',1,'UARTServo.cpp']]],
+  ['read_5fdata',['READ_DATA',['../_u_a_r_t_servo_8cpp.html#a8d406d5aff787991429e62cfd9bac721',1,'UARTServo.cpp']]],
+  ['readangle',['readAngle',['../class_u_a_r_t_servo.html#ad56eae053a175267ae84c6484bf52344',1,'UARTServo']]],
+  ['readbatchdata',['readBatchData',['../class_u_a_r_t_servo.html#a72fec7527f038a112c939716ca504fe7',1,'UARTServo']]],
+  ['readdata',['readData',['../class_u_a_r_t_servo.html#a8c1452d46995299c05ca52e4dc00ecec',1,'UARTServo']]],
+  ['request_5fheader',['REQUEST_HEADER',['../_u_a_r_t_servo_8cpp.html#a8752795b42b35e0d9fef975336a33204',1,'UARTServo.cpp']]],
+  ['reserved',['reserved',['../struct_user_parameter.html#a9d13afa5543d1ad0cc8fd5360d3eb02b',1,'UserParameter']]],
+  ['reset_5fuser_5fdata',['RESET_USER_DATA',['../_u_a_r_t_servo_8cpp.html#a73cec82c427b2384a74b03c260165234',1,'UARTServo.cpp']]],
+  ['resetuserdata',['resetUserData',['../class_u_a_r_t_servo.html#ad1b9ac8861b0a0044ea4e7b5b6ef40c0',1,'UARTServo']]],
+  ['response_5fheader',['RESPONSE_HEADER',['../_u_a_r_t_servo_8cpp.html#af886172f9a5cbbc9dcb73b72780c97d8',1,'UARTServo.cpp']]],
+  ['responsive',['responsive',['../struct_user_parameter.html#a5346245e8fd4fea8184ee82d9ab455ec',1,'UserParameter']]],
+  ['rotate',['rotate',['../class_u_a_r_t_servo.html#a59dcf41d44e58edf8bf8fb44286ed95e',1,'UARTServo::rotate()'],['../_u_a_r_t_servo_8cpp.html#ae38c87f421906975bf7500c3b779fbd1',1,'ROTATE():&#160;UARTServo.cpp']]],
+  ['rotate_5fby_5finterval',['ROTATE_BY_INTERVAL',['../_u_a_r_t_servo_8cpp.html#aa451e4b7944ae7be95b19572a6535873',1,'UARTServo.cpp']]],
+  ['rotate_5fby_5fvelocity',['ROTATE_BY_VELOCITY',['../_u_a_r_t_servo_8cpp.html#a82965fab6fd1418cf5dc503b37f7ef1e',1,'UARTServo.cpp']]],
+  ['rotatebyinterval',['rotateByInterval',['../class_u_a_r_t_servo.html#a03594f950b91606029bb1cd1ad81db39',1,'UARTServo']]],
+  ['rotatebyvelocity',['rotateByVelocity',['../class_u_a_r_t_servo.html#a0ce492543cbb74a21d43ddf3811c779c',1,'UARTServo']]]
+];
